@@ -1,0 +1,37 @@
+11000 mean dublicate msg
+validation err
+12 bytes in mongoDB Id
+//?Joi install it after doing config
+JOi is used for data validation
+
+//?authenticattion and authorization                                                                                                               
+
+
+Oauth,oauth2,jwt,basic aithentication and session storage
+cookie-parser use as middleware for genrating token
+TODO#Update the userUpdate in controller
+Multer TODO Look at the multer file very carefully.
+Understand about the disk storage and the clouderary storage
+Working of Cloudinary
+
+
+Work on blog controller
+
+Requestly [Alternate of Postman]
+git add . && git commit -m "Your message" && git push origin main
+
+Through multer middleware we taking file(image or video) from the user and storing it in local storage
+&& From local storage using cloudinary We upload this image to clouderary
+//DATA SEEDING
+console.log(process.argv)
+
+
+During the deployment
+{https: Secure
+One more layer of encription is added in this
+Samesite:none:-cookies will be transfer to different side
+        strict:- nO COOKIES share}
+
+install cors
+and use it in app.js
+Deployed_url_fe //Look to it
